@@ -1,6 +1,8 @@
 import '@/app/ui/global.css';
 import { inter, questrial } from '@/app/ui/fonts';
 
+export const experimental_ppr = true;
+
 export default function RootLayout({
   children,
 }: {
